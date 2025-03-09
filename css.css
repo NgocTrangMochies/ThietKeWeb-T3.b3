@@ -1,0 +1,45 @@
+bbody {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.title {
+    color: #0066cc;
+    font-size: 28px;
+}
+
+.subtitle {
+    color: #6699cc;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.description {
+    font-size: 16px;
+}
+
+.section-title {
+    color: #0066cc;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.content {
+    font-size: 16px;
+    text-align: justify;
+}
+
+.author {
+    text-align: right;
+    font-style: italic;
+    color: #666;
+    font-size: 14px;
+}
